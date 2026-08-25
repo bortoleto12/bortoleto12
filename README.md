@@ -1,4 +1,4 @@
-# Olá, seja muito bem-vinda ao meu perfil no Git! 👋 | Hi, welcome to my Git profile! 👋
+# Olá, seja muito bem-vindo ao meu perfil no Git! 👋 | Hi, welcome to my Git profile! 👋
 
 [PT-BR] Tenho 28 anos, sou formada em **Análise e Desenvolvimento de Sistemas pela Universidade São Judas Tadeu** e atualmente estou cursando **pós-graduação em Machine Learning Engineering na FIAP**. Tenho grande interesse por tecnologia, análise de dados e inteligência artificial. Fique à vontade para conhecer meus projetos — ficarei muito feliz em receber feedbacks e trocar experiências!
 
