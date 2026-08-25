@@ -10,15 +10,10 @@
 
 ### Tecnologias e ferramentas | Technologies and tools:
 
-### Tecnologias e ferramentas | Technologies and tools:
+| <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" /> | <img src="https://skillicons.dev/icons?i=r" alt="R" height="45" /> | <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" /> | <img src="https://skillicons.dev/icons?i=postgres" alt="SQL" height="45" /> | <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" height="42" /> | <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="VBA" height="42" /> |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,git,postgres,databricks,spark" height="50" />
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="42" />
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="42" />
-</p>
 
-**Python · SQL · PySpark · R · Databricks · Power BI · VBA · Microsoft SQL Server · Git**
 
 
 
