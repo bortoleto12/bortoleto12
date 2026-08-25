@@ -10,10 +10,16 @@
 
 ### Tecnologias e ferramentas | Technologies and tools:
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="PySpark" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" height="40" /> | <img src="https://skillicons.dev/icons?i=databricks" alt="Databricks" height="40" /> | <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" height="40" /> | <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="VBA" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="40" /> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+### Tecnologias e ferramentas | Technologies and tools:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,git,postgres,databricks,spark" height="50" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="42" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="42" />
+</p>
 
 **Python · SQL · PySpark · R · Databricks · Power BI · VBA · Microsoft SQL Server · Git**
+
 
 
 
